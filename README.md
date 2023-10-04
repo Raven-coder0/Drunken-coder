@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Drunken-coder
+- 👋 Hi, I’m Jagadeesh Kommineni 
 - 👀 I’m interested in open source 
 - 🌱 I’m currently learning HTML and CSS 
 - 💞️ I’m looking to collaborate with a development team
